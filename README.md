@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/hellosapumal/stats-preview-card-component.git)
-- Live Site URL: [https://baseapparel-hellosapumal.netlify.app/](https://baseapparel-hellosapumal.netlify.app/)
+- Live Site URL: [https://stats-preview-card-hellosapumal.netlify.app/](https://stats-preview-card-hellosapumal.netlify.app/)
 
 ### Built with
 
